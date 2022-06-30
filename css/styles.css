@@ -72,10 +72,17 @@ body{
     .menu-link:focus {
         color: var(--accent-color)
     }
+
+    
     
     .menu-link {
         color: var(--primery-text-color)
     }
+
+    .current{
+        color: var(--accent-color);
+    }
+
     
     .mail-header {
         font-weight: 500;
