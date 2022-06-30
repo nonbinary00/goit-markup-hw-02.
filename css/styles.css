@@ -79,7 +79,7 @@ body{
         color: var(--primery-text-color)
     }
 
-    .current{
+    .menu-link .current{
         color: var(--accent-color);
     }
 
